@@ -5,6 +5,7 @@ import glob
 import pandas as pd
 
 
+
 def load_input(input_directory):
     """Load word files in 'input_directory/'"""
     #
